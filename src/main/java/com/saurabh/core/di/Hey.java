@@ -8,6 +8,6 @@ public class Hey {
 
     @RequestMapping("/hey")
     public String hey() {
-        return "Hey there!!";
+        return "Hey there!!!";
     }
 }
